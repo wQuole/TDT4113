@@ -1,0 +1,14 @@
+def Encoding(m1,a1)
+	return
+
+def Decoding(m2,a2)
+	return	
+
+
+def Affine
+	c1 = 'w'
+	chr(ord(c1)*m1 + a1 mod 26)
+	chr((ord(c2)+a2)*m2mod26
+
+a2 = 26-a1
+m2 = modulo_inverse(m1)
