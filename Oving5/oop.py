@@ -1,5 +1,5 @@
 import os
-path = "C:/Users/wgkva/NTNU/OneDrive - NTNU/Datateknologi/2. klasse/TDT4113 - Programmeringsprosjekt/TDT4113/Oving5/images"
+path = "C:/Users/your/path/to/the/image"
 os.chdir(path)
 
 from PIL import Image, ImageEnhance, ImageOps, ImageFilter
